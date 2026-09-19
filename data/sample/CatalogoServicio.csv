@@ -1,0 +1,17 @@
+IDServicio,NombreServicio,Descripcion,PrecioBase,IDCategoria
+1,Acrílicas,,42.0,6
+2,Manigel,,28.0,6
+3,Pedigel,,32.0,6
+4,Rubber,,36.0,6
+5,Retiro,,6.0,6
+6,Pigmentación de cejas,,18.0,5
+7,Lifting de pestañas,,24.0,5
+8,Pestañas clásicas,,26.0,5
+9,Depilación de cejas,,6.0,5
+10,Planchado capilar,,32.0,1
+11,Tinte,,68.0,1
+12,Corte de cabello,,12.0,1
+13,Botox capilar,,58.0,1
+14,Facial,,26.0,4
+15,Depilación de piernas,,11.0,3
+16,Limpieza de pie,,14.0,2
