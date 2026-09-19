@@ -4,6 +4,11 @@ Proyecto académico de Business Intelligence desarrollado en equipo de 3 persona
 para digitalizar y analizar los registros de ventas de un centro de estética que,
 hasta este proyecto, se llevaban a mano en un cuaderno físico.
 
+## Integrantes del Equipo (Collaborators)
+* **Jose Manuel Rivera Laura** ([@manuelrivera8245](https://github.com/manuelrivera8245))
+* **Angelo Jesus Saavedra Chave** ([@Gelo-cpu](https://github.com/Gelo-cpu))
+* **Jeremy Yober Reyes Garcilazo** ([@jerreyesga-debug](https://github.com/jerreyesga-debug))
+
 ## Problema
 
 Los registros originales presentaban:
