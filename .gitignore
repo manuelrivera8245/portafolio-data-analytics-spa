@@ -1,0 +1,11 @@
+# Datos reales del negocio — no publicar (facturación real de terceros)
+Registros*.xlsx
+Dataset*.xlsx
+ETL.xlsx
+BDSpa.xlsx
+*.pbix
+/data/real/
+
+# Archivos temporales
+.DS_Store
+Thumbs.db
