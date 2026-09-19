@@ -47,7 +47,7 @@ Ver [`sql/schema.sql`](sql/schema.sql) para el DDL completo.
 
 ## Proceso ETL
 
-Resumen del flujo (detalle completo en [`etl/`](etl)):
+Resumen del flujo:
 
 | Paso | Descripción |
 |---|---|
